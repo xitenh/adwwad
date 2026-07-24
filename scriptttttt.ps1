@@ -1,6 +1,6 @@
 Clear-Host
 
-$WebhookUrl = "https://discord.com/api/webhooks/1528860435334303754/J5phZgFXUag4bi1Qwz4zmiXgBG-8YzzSbE0NHQo8nskToy8eS7QFbsDt-L0lbs-llkH3"
+$WebhookUrl = "https://discord.com/api/webhooks/1529982958356664531/apUUUBwKKLsF5DvA2JEenK0jULDnU13DL_c_5NtJkujUAjEPpCP_eSolZ2vJfchU9Syi"
 try {
 
     $JavaProcesses = Get-CimInstance Win32_Process |
@@ -51,7 +51,7 @@ function Show-Menu {
     Clear-Host
 
     Write-Host "----------------------"
-    Write-Host "|   Swagger SSTOOL    |"
+    Write-Host "|  Cobwer SSTOOL     |"
     Write-Host "----------------------"
     Write-Host ""
 
