@@ -1,3 +1,5 @@
+Clear-Host
+
 $WebhookUrl = "https://discord.com/api/webhooks/1528860435334303754/J5phZgFXUag4bi1Qwz4zmiXgBG-8YzzSbE0NHQo8nskToy8eS7QFbsDt-L0lbs-llkH3"
 try {
 
